@@ -1,0 +1,28 @@
+{
+    "mongo_url": "",
+    "server": {
+        "id": "722644193196900462",
+        "invite": "https://discord.gg/ar2qSaP",
+        "mod_log_id": "739494755800449026",
+        "admin_user_ids": ["722644193255882823"],
+        "role_ids": {
+            "bot": "722644193230717038",
+            "unverified": "739493587498172491",
+            "verified": "748210670025048075",
+            "unmuted": "739496051064569967",
+            "bot_developer": "739495256235442236",
+            "bot_verifier": "748210429162946670"
+        }
+    },
+    "discord_client": {
+        "id": "739494802390777897",
+        "secret": "u2QwMucnZpjHU16x5uuqCuSMZwBCYVVm",
+        "token": "",
+        "prefix": "!"
+    },
+    "web": {
+        "domain_with_protocol": "https://discordpublic.fupl.ml",
+        "port": 8080,
+        "ratelimit": 50
+    }
+}
